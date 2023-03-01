@@ -1,0 +1,19 @@
+.navbar {
+  width: 100%;
+  height: 50px;
+  background-color: black;
+}
+
+.links {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: right;
+  gap: 20px;
+  align-items: center;
+}
+
+.links a {
+  color: white;
+  text-decoration: none;
+}
