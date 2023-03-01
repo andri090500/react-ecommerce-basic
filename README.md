@@ -4,7 +4,7 @@
 <li>useState</li>
 <li>useContext</li>
 <li>react-router-dom</li>
-<li>phosphor-react/li>
+<li>phosphor-react</li>
 <li>jest-dom</li>
 </ul>
 </p>
